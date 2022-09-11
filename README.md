@@ -1,12 +1,13 @@
 # 3.2-MSD-Project
  Home Sequrity System
  
-Objective:
+**Objective:**
 The main purpose of a home security system is to minimize break-ins from the
 burglars. Home security system also provides protection of our possessions of
 things and also our protection of ourselves. Again, Home security system helps
 us to avoid danger from all types of circumstances.
-Social Values:
+
+**Social Values:**
 When we look at our family, and our home, we know we want them to be safe,
 always out of harm’s way. When we leave for work, we expect to come back to
 a smiling family, and to a home that is secure. But as they say, hope is not a
@@ -18,7 +19,7 @@ place often provides family members with enough warning to get to a safe
 location in our outside the home while the alarm system dispatches local
 authorities.
 
-Required Components:
+**Required Components:**
 These following parts and tools are required for building this project
 ❖ Arduino Mega 2560
 ❖ PIR Motion Sensor
@@ -32,7 +33,7 @@ These following parts and tools are required for building this project
 ❖ Breadboard
 ❖ Transistor
 
-Working Procedure:
+**Working Procedure:**
 The basic components that react to the input are
  Servo motor
 It controls the movement of door to be opened or closed.
